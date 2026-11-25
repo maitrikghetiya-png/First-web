@@ -1,0 +1,45 @@
+.home,#header{
+    background-color: rgb(237, 235, 236);
+    display: flex;
+    gap: 100PX;
+    padding-left: 300px;
+}
+#QWE{
+    color:red;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold
+}
+.home{
+    padding-top: 35px;
+}
+#media{
+    background-color: rgb(233, 231, 231);
+}
+img{
+    height: 600px;
+    width: auto;
+    padding-left: 250px;
+}
+.footer{
+    background-color: rgb(237, 235, 236);
+    padding-left:300px;
+    padding-top: 45px;
+    padding-bottom: 30px;
+}
+#m{
+    font-size:larger;
+}
+#w{
+    font-size:x-large;
+}
+.qwerty{
+    display: flex;
+    gap:65px;
+    padding-left: 450px;
+    color: white;
+    background-color: rgb(200, 193, 15);
+    padding-bottom: 100px;
+    padding-top: 100px;
+    font-size: larger;
+}
